@@ -1,0 +1,8 @@
+# store all the yt vids you want to download here. line by line
+# dont worry only lines that contain the yt link and watch parameters are taken as input
+
+# Academind Flutter Crash Course
+https://www.youtube.com/watch?v=x0uinJvhNxI&t=735s
+
+# Godot 3 Setup for Android
+https://www.youtube.com/watch?v=6646oo2YSBY

@@ -1,0 +1,3 @@
+beautifulsoup4
+pytube3
+requests
